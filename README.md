@@ -20,7 +20,7 @@ Host-only isolated lab network
 
 ## Tools Used
 
-- Nmap
+- Nmap(Network Mapper)
 - Netcat
 - FTP Client
 - Web Browser
